@@ -1,9 +1,13 @@
 * {
   box-sizing: border-box;
   padding: 0;
-  font-family: Gilroy;
+  font-family: "Mozilla Headline", sans-serif;
   margin: 0;
+  color: #fff;
 }
+
+/* FONT */
+@import url("https://fonts.googleapis.com/css2?family=Mozilla+Headline:wght@200..700&display=swap");
 
 html,
 body {
@@ -21,9 +25,8 @@ body {
   /* background-color: red; */
 }
 
-
-.navbar{
-    height: 50px;
-    width: 100%;
-    background-color: red;
+.navbar {
+  height: 50px;
+  width: 100%;
+  background-color: red;
 }
