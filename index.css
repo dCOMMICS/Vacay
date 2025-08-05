@@ -20,7 +20,7 @@ body {
 }
 
 .pag1 {
-  height: 100vh;
+  min-height: 100vh;
   width: 100%;
   /* background-color: red; */
 }
@@ -76,7 +76,14 @@ background-color: #fff;
   font-size: 5vw;
   font-weight: 300;
   font-family: Satoshi;
-  margin-top: 1vw;
-  margin-left: 20vw;
+  margin-top: 0.1vw;
+  margin-left: 26vw;
 }
 
+
+.pag1 video{
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+
+}
