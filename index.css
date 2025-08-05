@@ -47,7 +47,7 @@ body {
 height: 20px;
 width: 20px;
 border-radius: 50%;
-background-color: red;
+background-color: #fff;
 }
 
 
@@ -61,5 +61,22 @@ background-color: red;
   /* color: red; */
   /* text-decoration: underline;
    */
-   border-bottom: 2px solid #fff;
+   border-bottom: 1.8px solid #fff;
 }
+
+.pag1  h1 {
+  font-size: 8vw;
+  font-weight: 600;
+  font-family: Satoshi;
+  margin-top: 10vw;
+  margin-left: 5vw;
+}
+
+.pag1  h2 {
+  font-size: 5vw;
+  font-weight: 300;
+  font-family: Satoshi;
+  margin-top: 1vw;
+  margin-left: 20vw;
+}
+
